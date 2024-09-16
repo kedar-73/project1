@@ -44,3 +44,5 @@ The following parameters are used in the simulation:
 4. Run Simulation: After entering the parameters, execute the simulation to observe the transient and steady-state responses.
 
 5. View Results: The results and visualizations will be displayed in the GUI.
+
+## Made by-Kedar Singh
